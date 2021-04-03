@@ -15,6 +15,7 @@
         "noImplicitReturns": true,
         "esModuleInterop": true,
         "allowSyntheticDefaultImports": true,
+        "resolveJsonModule": true,
         "baseUrl": ".",
         "paths": {
             "@src/*": ["./src/*"],
